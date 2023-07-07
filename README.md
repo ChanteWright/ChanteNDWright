@@ -6,9 +6,6 @@
   - [osTicket: Prerequisites and Installation](https://github.com/ChanteWright/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/ChanteWright/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/ChanteWright/ticket-lifecycle)
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/ChanteWright/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ChanteWright/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 
